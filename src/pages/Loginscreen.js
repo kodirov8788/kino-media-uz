@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./Loginscreen.css";
-import SignIn from "./signIn/SignIn";
 import SignUp from "./signUp/SignUp";
 
 function Loginscreen() {
